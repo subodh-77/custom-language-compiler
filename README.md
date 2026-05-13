@@ -1,5 +1,4 @@
-# custom-language-compiler
-A simple compiler using recursive descent parsing and x86 assembly generation
+
 # Custom Language Compiler
 
 A simple compiler project implementing:
